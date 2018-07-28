@@ -1,0 +1,46 @@
+.fab,.fas
+{
+	margin-right: 20px;
+	font-size: 25px;
+}
+body { padding-top: 50px; }
+
+	.bg
+	{
+		background-color: orange;
+		color:white;	
+	}
+	.main
+	{
+		background-color:#f1f1f1 ;
+		//padding-bottom: 50px;
+	
+		
+	}
+	.container
+	{
+		width:80%;
+		margin: 0px auto;
+	}
+	.img
+	{
+		border: none;
+		padding-top: 20px;
+		margin-right: 0px;
+	}
+	.ml-0 { margin-left: 15px; }
+	//.navbar
+	{
+		border: none;
+	}
+	.summary
+	{
+		background:#2f2f2f;
+		color: white;
+		padding-bottom: 30px;
+		padding-top: 20px;
+	}
+	.footer
+	{
+
+	}
